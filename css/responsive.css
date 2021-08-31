@@ -1,0 +1,18 @@
+@media (max-width: 800px) {
+    .text-block {
+        margin-bottom: 0;
+    }
+}
+
+
+/* header responsive */
+@media (max-width: 768px) {
+    .navigation {
+        display: none;
+    }
+    .burger-bar {
+        display: block;
+    }
+}
+
+

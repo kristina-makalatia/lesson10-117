@@ -50,3 +50,6 @@ a {
 /* textarea {
 	resize:none;
 } */
+/* input:focus {
+	outline: none;
+} */
